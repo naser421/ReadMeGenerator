@@ -28,6 +28,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+### Walkthrough Video:
+[Walkthrough Video.webm](https://user-images.githubusercontent.com/112986806/222425689-b00185a2-258e-4af7-abdd-aeba81840468.webm)
 
 ## Contributing
 [Naser Suleiman](https://github.com/naser421)
